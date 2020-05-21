@@ -23,8 +23,6 @@ Access Spotify Podcast Data with spotipy.  Create data frames of shows and episo
 ![Image description](https://github.com/sam-brady/spotify-podcasts/blob/master/images/Screen%20Shot%202020-05-21%20at%2010.04.22%20AM.png)
 
 
-![Image description](https://github.com/sam-brady/spotify-podcasts/blob/master/images/Screen%20Shot%202020-05-21%20at%2010.04.22%20AM.png)
-
 
 
 ![Image description](https://github.com/sam-brady/spotify-podcasts/blob/master/images/Screen%20Shot%202020-05-21%20at%2010.04.44%20AM.png)
